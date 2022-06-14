@@ -1,4 +1,4 @@
-#Gesture-Control-Vocalizer
+# Gesture-Control-Vocalizer
 
 Gesture Vocalizer is a project for social purpose. Normally deaf people speak with
 hand gestures and it is difficult for other people to understand their sign language. We are going
